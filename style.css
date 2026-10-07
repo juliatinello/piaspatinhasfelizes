@@ -108,7 +108,7 @@ a{
 .capa-conteudo-lateral{
   position: absolute; 
   inset: 0;
-  max-width: 1080px; 
+  max-width: 1300px; 
   margin: 0 auto; 
   padding: 2rem 1.2rem;
   display: flex; 
@@ -121,7 +121,7 @@ a{
 
 .capa-texto{
   flex: 1;
-  min-width: 280px;
+  min-width: 400px;
   display: flex; flex-direction: column; 
   justify-content: center;
   align-items: flex-start; 
@@ -156,12 +156,12 @@ a{
 
 .governo {
   height: 140px;
-  padding-right: 10px;
+  padding-right: 80px;
 }
 
 .ccm {
   height: 140px;
-  padding-left: 10px;
+  padding-left: 80px;
 }
 
 /* --------- BOTOES --------- */
