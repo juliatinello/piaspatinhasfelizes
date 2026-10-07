@@ -401,6 +401,13 @@ input, select, textarea{
   color: #55605a;
 }
 
+/* --------- BICHOS --------- */
+
+.bicho {
+  width: 300px;
+  height: 250px;
+}
+
 /* --------- RODAPE --------- */
 .rodape{ 
   background: var(--tinta); 
