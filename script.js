@@ -1,5 +1,3 @@
-alert("SCRIPT.JS CARREGOU!");
-
 /* =========================================================
    script.js
    Aqui fica o COMPORTAMENTO: salvar, ler, mostrar, buscar e apagar.
