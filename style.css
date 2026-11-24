@@ -423,17 +423,16 @@ input, select, textarea{
 }
 
 /* --------- CELULAR --------- */
-/* Tudo aqui dentro so vale em telas de ate 640px de largura */
-@media (max-width: 640px){
+/* Tudo aqui dentro só vale em telas de até 640px */
+@media (max-width: 1024px){
   h1{ font-size: 1.7rem; }
   .capa img{ height: 340px; }
   .bloco{ padding: 2rem 1rem; }
   .ferramentas{ flex-direction: column; align-items: stretch; }
 
-.capa-logo
-.governo 
-.ccm {
-  display: none;
-}
-
+  .capa-logo,
+  .governo,
+  .ccm {
+    display: none;
+  }
 }
