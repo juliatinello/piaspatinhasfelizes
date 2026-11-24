@@ -424,7 +424,7 @@ input, select, textarea{
 
 /* --------- CELULAR --------- */
 /* Tudo aqui dentro só vale em telas de até 640px */
-@media (max-width: 1024px){
+@media (max-width: 640px){
   h1{ font-size: 1.7rem; }
   .capa img{ height: 340px; }
   .bloco{ padding: 2rem 1rem; }
