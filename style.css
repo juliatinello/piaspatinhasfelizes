@@ -446,7 +446,7 @@ input, select, textarea{
   h1 { font-size: 1.7rem; }
 
   .capa > img {
-    height: 340px;
+    height: 400px;
   }
 
   .bloco { padding: 2rem 1rem; }
@@ -461,6 +461,15 @@ input, select, textarea{
   .ccm {
     display: none !important;
   }
+
+  .capa-texto{
+  flex: 1;
+  min-width: 340px;
+  display: flex; flex-direction: column; 
+  justify-content: center;
+  align-items: flex-start; 
+  gap: 1rem;
+}
 
   html, body {
     width: 100%;
